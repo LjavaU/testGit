@@ -16,4 +16,7 @@ public class Test {
     public  void test(){
         System.out.println();
     }
+    public  void tes2(){
+        System.out.println();
+    }
 }
