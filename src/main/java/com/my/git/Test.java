@@ -17,6 +17,6 @@ public class Test {
         System.out.println("adfadf");
     }
     public  void test(){
-
+        System.out.println();
     }
 }
