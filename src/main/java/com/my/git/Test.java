@@ -11,10 +11,8 @@ public class Test {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(0);
-        System.out.println("adfadf");
     }
     public  void test(){
-        System.out.println();
     }
     public  void tes2(){
         System.out.println();
