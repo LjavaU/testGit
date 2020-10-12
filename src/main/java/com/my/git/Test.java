@@ -11,6 +11,7 @@ public class Test {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(0);
+        System.out.println();
     }
     public  void test(){
     }
