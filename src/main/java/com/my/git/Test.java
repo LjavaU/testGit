@@ -12,4 +12,7 @@ public class Test {
         list.add(1);
         list.add(5);
     }
+    public  void test(){
+
+    }
 }
